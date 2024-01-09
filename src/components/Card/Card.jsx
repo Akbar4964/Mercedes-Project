@@ -39,4 +39,3 @@ function Card({ filteredCards, filtCards }) {
 }
 
 export default Card;
-
