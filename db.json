@@ -1,0 +1,70 @@
+{
+  "mercedes": [
+    {
+      "name": "dfsdfsfds",
+      "img": "dfssdfsdf",
+      "price": 432342243,
+      "about": "sddfsdfsdfsfds",
+      "type": "E-class",
+      "id": 1
+    },
+    {
+      "name": "dfsaaaaaaa",
+      "img": "fsadd",
+      "price": 43234,
+      "about": "fdsaaaaaa",
+      "type": "C-class",
+      "id": 2
+    },
+    {
+      "name": "adsdasdsadsds",
+      "img": "dadasadsdsa",
+      "price": 11984,
+      "about": "daDA",
+      "type": "G-class",
+      "id": 3
+    },
+    {
+      "name": "aaaaaaaa",
+      "img": "adadsadsadsdsa",
+      "price": 34234243,
+      "about": "adsdasdsads",
+      "type": "C-class",
+      "id": 4
+    },
+    {
+      "name": "Akbar",
+      "img": "sdas",
+      "price": 3421342,
+      "about": "dsfdsssssssssss",
+      "type": "B-class",
+      "id": 5
+    },
+    {
+      "name": "asd",
+      "img": "ddd42",
+      "price": 432432,
+      "about": "sdadsaasd",
+      "type": "B-class",
+      "id": 6
+    },
+    {
+      "name": "dsaasdas",
+      "img": "sda",
+      "price": 43223,
+      "about": "",
+      "type": "A-class",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
